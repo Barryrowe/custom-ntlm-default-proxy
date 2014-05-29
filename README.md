@@ -17,7 +17,7 @@ Usage
 
 Usage is very simple. 
 
-1. You reference the CustomProxyAssembly.dll from HERE (NOTE: provide release download), or building the assembly from the CustomProxyAssembly project in this repository.
+1. You reference the CustomProxyAssembly.dll from [the Binary distributeion](https://github.com/Barryrowe/custom-ntlm-default-proxy/raw/master/Binary/CustomProxyAssembly.dll), or building the assembly from the CustomProxyAssembly project in this repository.
 2. Add the following block to the <system.net> block of your App.config or web.config file:
 
   ```xml
