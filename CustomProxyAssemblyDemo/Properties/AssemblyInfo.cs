@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CustomProxyAssembly")]
+[assembly: AssemblyTitle("CustomProxyAssemblyDemo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("PineapplePiranha")]
-[assembly: AssemblyProduct("CustomProxyAssembly")]
+[assembly: AssemblyProduct("CustomProxyAssemblyDemo")]
 [assembly: AssemblyCopyright("Copyright © PineapplePiranha 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f5899199-f1e3-43b7-b875-63b9659e0336")]
+[assembly: Guid("11ee084f-ab8f-4b0f-8747-5cc7bf686d51")]
 
 // Version information for an assembly consists of the following four values:
 //
