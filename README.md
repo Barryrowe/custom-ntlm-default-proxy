@@ -18,7 +18,7 @@ Usage
 Usage is very simple. 
 
 1. You reference the CustomProxyAssembly.dll from [the Binary distribution](https://github.com/Barryrowe/custom-ntlm-default-proxy/raw/master/Binary/CustomProxyAssembly.dll), or building the assembly from the CustomProxyAssembly project in this repository.
-2. Add the following block to the <system.net> block of your App.config or web.config file:
+2. Add the following block to the `<system.net>` block of your App.config or web.config file within the `<configuration>` node:
 
   ```xml
   <system.net>
@@ -30,7 +30,7 @@ Usage is very simple.
     </defaultProxy>
   </system.net>
   ```
-3. Add the proper <appSettings> key value pairs to your App.config or web.config file:
+3. Add the proper `<appSettings>` key value pairs to your App.config or web.config file within the `<configuration` node:
  
   ```xml
   <appSettings>
